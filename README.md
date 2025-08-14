@@ -1,4 +1,5 @@
 # Slither_Lua
+Por josé
 ## Slither.io Single-Player
 Slither_Lua e uma base para um jogo de arcade no estilo Slither.io, desenvolvido na linguagem de programação Luacom o framework de jogos 2D LÖVE. Este jogo oferece uma experiência de um jogador, onde o objetivo principal é controlar uma cobra, coletar alimentos e crescer, ao mesmo tempo que se evitam colisões.
 ## Love2D
